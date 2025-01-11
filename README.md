@@ -26,3 +26,13 @@ Tecnologías Utilizadas 💻
 
 * 🐍 Python: Automatización de procesos ETL (Extracción, Transformación y Carga).
 
+
+## Fuentes de Datos 📂
+
+* 🌐 Información extraída de las plataformas de redes sociales (Instagram, Twitter y LinkedIn).
+
+* 📋 Métricas recolectadas mediante API’s de redes sociales.
+
+* 🤝 Datos adicionales suministrados por el equipo de marketing de Avianca.
+
+
