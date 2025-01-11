@@ -36,3 +36,15 @@ Tecnologías Utilizadas 💻
 * 🤝 Datos adicionales suministrados por el equipo de marketing de Avianca.
 
 
+ #  Beneficios 🎉
+
+* 💬 Identificar contenido que genera más interacción con los usuarios.
+
+* 🚀 Optimizar estrategias de publicación para incrementar el engagement.
+
+* ⏱️ Monitorear el rendimiento de las campañas en tiempo real.
+
+* 📊 Segmentar audiencias de manera efectiva según su demografía y ubicación geográfica.
+
+
+
