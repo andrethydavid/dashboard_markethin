@@ -46,5 +46,8 @@ Tecnologías Utilizadas 💻
 
 * 📊 Segmentar audiencias de manera efectiva según su demografía y ubicación geográfica.
 
+  ![image](https://github.com/user-attachments/assets/a6108420-9958-416d-87ec-caef32f2c998)
+
+
 
 
